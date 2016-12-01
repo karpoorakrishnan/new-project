@@ -7,3 +7,5 @@ mani
 bangalore
 mysore
 coimbatore
+pollachi
+valpari
