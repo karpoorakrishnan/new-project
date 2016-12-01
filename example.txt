@@ -4,3 +4,6 @@ mango
 krishnan
 arun
 mani
+bangalore
+mysore
+coimbatore
